@@ -5,10 +5,10 @@
 }
 
 :root {
-  --primary-color: #5d917d;
-  --secondary-color: #36362b;
-  --tertiary-color: #e5d3a8;
-  --quaternary-color: #825534;
+  --primary-color: #a70303;
+  --secondary-color: #000000;
+  --tertiary-color: #ffffff;
+  --quaternary-color: #000000;
   --font-primary: Georgia, 'Times New Roman', Times, serif;
   --font-secondary: Verdana, Geneva, Tahoma, sans-serif;
 }
