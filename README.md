@@ -1,5 +1,5 @@
 # fabianingram.github.Portfolio
-Here is the link to my portfolio webpage:https://fabianingram.github.io/Included 
+Here is the link to my portfolio webpage:https://fabianingram.github.io 
 -The code for this is seen above.
 
 Below you will see content for a project i worked on with some colligues at a coding bootcamp At The Univeristy of Arizona powered by Trilogy.
