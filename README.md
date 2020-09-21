@@ -1,6 +1,6 @@
 # fabianingram.github.Portfolio
 Included bwlow you will see content for a project i worked on with some colligues at a coding bootcamp At The Univeristy of Arizona powered by Trilogy.
-https://github.com/jesusmanteca/News-On-The_Balance.git
+https://github.com/jesusmanteca/News-On-The-Balance.git
 
 # News on the Balance  
   
