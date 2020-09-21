@@ -12,7 +12,7 @@ https://github.com/jesusmanteca/News-On-The-Balance.git
 5. User searches are save in their own column for easy access.
   
 ## Picture in Action  
-![picture](/Users/fabianingram/Desktop/styledwebpageNOTB.png
+![picture](Desktop/styledwebpageNOTB.png
   
 ## Active Sites 
 [**Live Site**](https://jesusmanteca.github.io/News-On-The-Balance/)  
