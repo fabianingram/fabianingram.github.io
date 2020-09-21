@@ -1,7 +1,8 @@
 # fabianingram.github.Portfolio
-Here is the link to my portfolio webpage:https://raw.githubusercontent.com/jesusmanteca/News-On-The-Balance/master/assets/images/styledwebpageNOTB.png  
-Code can be seen above.
-Included bwlow you will see content for a project i worked on with some colligues at a coding bootcamp At The Univeristy of Arizona powered by Trilogy.
+Here is the link to my portfolio webpage:https://fabianingram.github.io/Included 
+-The code for this is seen above.
+
+Below you will see content for a project i worked on with some colligues at a coding bootcamp At The Univeristy of Arizona powered by Trilogy.
 https://github.com/jesusmanteca/News-On-The-Balance.git
 
 The code for this can be on the link above. This was the certral repository we all worked from.
