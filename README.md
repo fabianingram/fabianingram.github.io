@@ -73,6 +73,13 @@ Private Reserve gives people a place to keep their thoughts to themselves, Now y
   
   
   
+  ## In-Use
+  
+  *Application in use:*
+  
+  ![instructional-video](public/images/app-in-use.gif) 
+  
+  
   
   ---
   ## Active Sites 
