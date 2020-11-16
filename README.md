@@ -73,7 +73,7 @@ Private Reserve gives people a place to keep their thoughts to themselves, Now y
   
   
  
-  
+  ![app-in-use](https://user-images.githubusercontent.com/68198938/99211387-714df480-2785-11eb-828d-3ec2e143258d.gif)
   
   
   ---
