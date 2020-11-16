@@ -70,7 +70,7 @@ Private Reserve gives people a place to keep their thoughts to themselves, Now y
   
   *Application in use:*
   
-  ![instructional-video](public/images/app-in-use.gif)
+  ![instructional-video](/private reserve/private-reserve/public/images/app-in-use.gif)
   
   
   ---
