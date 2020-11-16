@@ -32,8 +32,8 @@ The code for this can be on the link above. This was the certral repository we a
 * [Fabian Ingram](https://github.com/fabianingram)
 
 
-
-ivate Reserve
+## PRIVATE RESERVE
+private Reserve
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/Tpino92/Readme-Maker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/Tpino92/Readme-Maker?style=flat&logo=appveyor)
 
 ## Description 
