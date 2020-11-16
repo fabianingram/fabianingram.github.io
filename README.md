@@ -72,13 +72,7 @@ Private Reserve gives people a place to keep their thoughts to themselves, Now y
   If you'd like to test it for yourself head to the [**Live Site**](https://obscure-cove-36740.herokuapp.com/) and play arround yourself. All you'll need to do is create and account. Then you can search, comment and add journal entries till your hearts content
   
   
-  
-  ## In-Use
-  
-  *Application in use:*
-  
-  ![instructional-video]()fabianingram.github.io/private reserve/private-reserve/public/images/app-in-use.gif)
-
+ 
   
   
   
