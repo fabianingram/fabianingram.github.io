@@ -1,4 +1,5 @@
 # This is my Latest and greatest portfilio App 
+## readme's for other Apps will be in code up top ^
 # Title: Private Reserve 2.0
     
 ## Description 
