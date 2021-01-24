@@ -1,4 +1,4 @@
-#Im fabian Ingram Welcome to my Portfolio Repo!!
+Im fabian Ingram Welcome to my Portfolio Repo!!
 --
 # This is my Latest and greatest portfilio App 
 ## Some projects i have worked on as well (BELOW):
