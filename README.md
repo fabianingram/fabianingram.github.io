@@ -1,6 +1,6 @@
-Im fabian Ingram Welcome to my Portfolio Repo!!
+ Hi I'm fabian Ingram Welcome to my Portfolio Repo!!
 --
-## Some projects i have worked on as well (BELOW):
+## Some projects i have worked on (BELOW):
 ![bookSearch](https://user-images.githubusercontent.com/68198938/105619603-7cd72080-5db1-11eb-9252-e443c81d6fa0.png)
 ![project1](https://user-images.githubusercontent.com/68198938/105619606-8496c500-5db1-11eb-8fc7-655ec2920a94.png)
 <img width="1316" alt="shopShop" src="https://user-images.githubusercontent.com/68198938/105619611-88c2e280-5db1-11eb-917b-2942aac96f1d.png">
