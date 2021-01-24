@@ -1,6 +1,5 @@
 Im fabian Ingram Welcome to my Portfolio Repo!!
 --
-# This is my Latest and greatest portfilio App 
 ## Some projects i have worked on as well (BELOW):
 ![bookSearch](https://user-images.githubusercontent.com/68198938/105619603-7cd72080-5db1-11eb-9252-e443c81d6fa0.png)
 ![project1](https://user-images.githubusercontent.com/68198938/105619606-8496c500-5db1-11eb-8fc7-655ec2920a94.png)
